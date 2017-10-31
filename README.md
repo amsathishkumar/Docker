@@ -1,12 +1,12 @@
 # Docker
-#docker images 
+# docker images 
      get the <ID>
-#docker rmi <ID>
-#docker pull xxxx.sat.com/sat-docker/component/component:20170601110350-c9.5.574-0
-#docker images
+# docker rmi <ID>
+# docker pull xxxx.sat.com/sat-docker/component/component:20170601110350-c9.5.574-0
+# docker images
   ID= cda2bedde5c2
-#docker tag <ID> 10.57.59.212:5000/xxx/xxx:20170601110350-c9.5.574-0
-#docker push 10.57.59.212:5000/component/component:20170601110350-c9.5.574-0
+# docker tag <ID> 10.57.59.212:5000/xxx/xxx:20170601110350-c9.5.574-0
+# docker push 10.57.59.212:5000/component/component:20170601110350-c9.5.574-0
 The push refers to a repository [10.57.59.212:5000/dmp/dmp]
 8267db8dde7f: Pushed 
 6b9220bba360: Pushed 
